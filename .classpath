@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Selenium_Framework/final-framework-testng/src"/>
+	<classpathentry kind="src" path="Selenium_Framework/final-framework-testng/tests"/>
+	<classpathentry kind="src" path="Selenium_Framework/final-framework/src"/>
+	<classpathentry kind="src" path="Selenium_Framework/final-framework/tests"/>
+	<classpathentry kind="src" path="Selenium_Framework/version01/src"/>
+	<classpathentry kind="src" path="Selenium_Framework/version01/tests"/>
+	<classpathentry kind="output" path="Selenium_Framework/final-framework/target/classes"/>
+</classpath>
